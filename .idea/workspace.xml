@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5733c8ee-b29c-47c7-9839-259d6020620f" name="Changes" comment="star program 3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringProgram/countString.java" afterDir="false" />
+    <list default="true" id="d43eb261-314c-4870-a4fc-fae145a2fbb9" name="Changes" comment="star program 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicProgram/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BasicProgram/PrimeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +27,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -64,9 +65,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.countString">
-    <configuration name="StarPatten1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.BasicProgram.StarPatten1" />
+  <component name="RunManager" selected="Application.PrimeNumber">
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BasicProgram.PrimeNumber" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.countString" />
         <item itemvalue="Application.starProgram4" />
         <item itemvalue="Application.starProgram3" />
         <item itemvalue="Application.StarProgram2" />
-        <item itemvalue="Application.StarPatten1" />
       </list>
     </recent_temporary>
   </component>
