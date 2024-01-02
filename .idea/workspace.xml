@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5733c8ee-b29c-47c7-9839-259d6020620f" name="Changes" comment="star program 3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BasicProgram/starProgram4.java" afterDir="false" />
+    <list default="true" id="d43eb261-314c-4870-a4fc-fae145a2fbb9" name="Changes" comment="star Prime Number">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Arrays/FindLargestNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BasicProgram/ATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Stream/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Stream/Prog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,16 +26,17 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="StarPatten3" />
+        <entry key="$PROJECT_DIR$" value="StarPatten4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -57,16 +61,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Dinesh Project 4/hibernate&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.starProgram4">
-    <configuration name="FactorialExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.BasicProgram.FactorialExample" />
+}</component>
+  <component name="RunManager" selected="Application.ATM1">
+    <configuration name="ATM1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BasicProgram.ATM1" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarPatten1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.BasicProgram.StarPatten1" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BasicProgram.PrimeNumber" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -91,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarProgram2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.BasicProgram.StarProgram2" />
+    <configuration name="Prog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Stream.Prog" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.BasicProgram.*" />
+          <option name="PATTERN" value="org.example.Stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="starProgram3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.BasicProgram.starProgram3" />
+    <configuration name="countString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.StringProgram.countString" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.BasicProgram.*" />
+          <option name="PATTERN" value="org.example.StringProgram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,18 +137,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ATM1" />
+        <item itemvalue="Application.Prog" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.countString" />
         <item itemvalue="Application.starProgram4" />
-        <item itemvalue="Application.starProgram3" />
-        <item itemvalue="Application.StarProgram2" />
-        <item itemvalue="Application.StarPatten1" />
-        <item itemvalue="Application.FactorialExample" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5733c8ee-b29c-47c7-9839-259d6020620f" name="Changes" comment="" />
+      <changelist id="d43eb261-314c-4870-a4fc-fae145a2fbb9" name="Changes" comment="star Prime Number" />
       <created>1703841709033</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
