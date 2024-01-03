@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d43eb261-314c-4870-a4fc-fae145a2fbb9" name="Changes" comment="star Prime Number">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Arrays/FindLargestNumberInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BasicProgram/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Stream/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Stream/Prog.java" afterDir="false" />
+    <list default="true" id="d43eb261-314c-4870-a4fc-fae145a2fbb9" name="Changes" comment="star atm program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,20 +65,7 @@
     &quot;last_opened_file_path&quot;: &quot;E:/Dinesh Project 4/hibernate&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ATM1">
-    <configuration name="ATM1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.BasicProgram.ATM1" />
-      <module name="JavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.BasicProgram.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.atmMachine">
     <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.BasicProgram.PrimeNumber" />
       <module name="JavaPrograms" />
@@ -102,6 +85,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.Stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="atmMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BasicProgram.atmMachine" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.BasicProgram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,7 +133,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ATM1" />
+        <item itemvalue="Application.atmMachine" />
         <item itemvalue="Application.Prog" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.countString" />
@@ -175,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703854313675</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="star atm program">
+      <created>1704193617050</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704193617050</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +195,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="star program 2" />
     <MESSAGE value="star program 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="star program 3" />
+    <MESSAGE value="star atm program" />
+    <option name="LAST_COMMIT_MESSAGE" value="star atm program" />
   </component>
 </project>
