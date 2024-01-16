@@ -1,6 +1,7 @@
 package org.example.Stream;
 
 import java.util.*;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class Prog {
@@ -48,6 +49,22 @@ public class Prog {
 //                        .collect(Collectors.toList());
                 .forEach(System.out::println);
 //        System.out.println(dept);
-    }
+
+
+        String str = "we are here to we are";
+
+        String[] words=str.split(" ");
+
+        Map<String,Integer> wordCount=new HashMap<>();
+        for (String word:words){
+            if (wordCount.containsKey(word)){
+                wordCount.put(word,wordCount.get(word)+1);
+            }else {
+                wordCount.put(word, 1);
+            }
+        }
+        System.out.println(wordCount);
+
+        }
 
 }

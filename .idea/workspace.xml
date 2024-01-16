@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d43eb261-314c-4870-a4fc-fae145a2fbb9" name="Changes" comment="star atm program">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BasicProgram/PrimeNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pattens/numberPyramid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Stream/Prog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Stream/Prog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +68,22 @@
     &quot;last_opened_file_path&quot;: &quot;E:/Dinesh Project 4/hibernate&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.atmMachine">
+  <component name="RunManager" selected="Application.numberPyramid">
     <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.BasicProgram.PrimeNumber" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.BasicProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BasicProgram.PrimeNumber2" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -105,25 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="countString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StringProgram.countString" />
+    <configuration name="numberPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.pattens.numberPyramid" />
       <module name="JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.StringProgram.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="starProgram4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.BasicProgram.starProgram4" />
-      <module name="JavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.BasicProgram.*" />
+          <option name="PATTERN" value="org.example.pattens.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.atmMachine" />
+        <item itemvalue="Application.numberPyramid" />
         <item itemvalue="Application.Prog" />
+        <item itemvalue="Application.PrimeNumber2" />
+        <item itemvalue="Application.atmMachine" />
         <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.countString" />
-        <item itemvalue="Application.starProgram4" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704193617050</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="star atm program">
+      <created>1704274048362</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704274048362</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
